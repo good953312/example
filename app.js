@@ -1,4 +1,4 @@
-const name = 'student01';
+const name = '20****019';
 const hour = new Date().getHours();
 const greeting = document.querySelector('#greeting');
 const countBox = document.querySelector('#count');
